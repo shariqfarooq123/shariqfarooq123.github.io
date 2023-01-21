@@ -1,0 +1,39 @@
+{
+    "SBhat": {
+        "name": "Shariq Farooq Bhat",
+        "url": "https://scholar.google.com/citations?user=nGbEcI8AAAAJ&hl=en",
+        "isMe": true
+    },
+    "PWonka": {
+        "name": "Peter Wonka",
+        "url": "https://scholar.google.com/citations?user=0EKXSXgAAAAJ&hl=en"
+    },
+    "IAlhashim": {
+        "name": "Ibraheem Alhashim",
+        "url": "https://ialhashim.github.io/index.html"
+    },
+    "WPara": {
+        "name": "Wamiq Para",
+        "url": "https://cemse.kaust.edu.sa/people/person/wamiq-para"
+    },
+    "PGuerrero": {
+        "name": "Paul Guerrero",
+        "url": "https://paulguerrero.net/"
+    },
+    "NMitra": {
+        "name": "Niloy J Mitra",
+        "url": "http://www0.cs.ucl.ac.uk/staff/n.mitra/"
+    },
+    "TKelly": {
+        "name": "Tom Kelly",
+        "url": "https://scholar.google.com/citations?user=MzDoKg8AAAAJ&hl=en"
+    },
+    "LGuibas": {
+        "name": "Leonidas J. Guibas",
+        "url": "https://geometry.stanford.edu/member/guibas/"
+    },
+    "HAkada": {
+        "name": "Hiroyasu Akada",
+        "url": "https://hiroyasuakada.github.io/hakada.github.io/"
+    }
+}
