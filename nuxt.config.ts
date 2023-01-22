@@ -4,5 +4,8 @@ export default defineNuxtConfig({
   experimental:
   {
     payloadExtraction: false
-  }
+  },
+  meta : [
+    {name: "google-site-verification", content:"zvOb0kySPGuecZpYONI4j25ktQ5XvmnuRyb1UefyKZc"}
+  ]
 })
