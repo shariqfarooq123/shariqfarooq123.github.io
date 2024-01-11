@@ -34,7 +34,7 @@ These are passed as props to the component. The component also accepts a slot fo
         </div>
     </div>
 
-    <PaperIcons :pdf="pdf" :code="code" :video="video" :other="other" />
+    <PaperIcons :pdf="pdf" :code="code" :video="video" :other="other" :project="project"/>
     </div>
 </template>
 
@@ -50,5 +50,5 @@ const parseAuthors = (authors) => {
     return authors.map((author) => parseAuthor(author));
 };
 
-defineProps(["title", "authors", "venue", "date", "image", "pdf", "code", "video", "other"]);
+defineProps(["title", "authors", "venue", "date", "image", "pdf", "code", "video", "other", "project"]);
 </script>

@@ -35,5 +35,37 @@
     "HAkada": {
         "name": "Hiroyasu Akada",
         "url": "https://hiroyasuakada.github.io/hakada.github.io/"
+    },
+    "HGani": {
+        "name": "Hanan Gani",
+        "url": "https://hananshafi.github.io/"
+    },
+    "MNaseer": {
+        "name": "Muzammal Naseer",
+        "url": "https://muzammal-naseer.netlify.app/"
+    },
+    "SKhan": {
+        "name": "Salman Khan",
+        "url": "https://salman-h-khan.github.io/"
+    },
+    "MLavreniuk": {
+        "name": "Mykola Lavreniuk",
+        "url": "https://scholar.google.com/citations?hl=en&user=-oFR-RYAAAAJ&view_op=list_works"
+    },
+    "RBirkl": {
+        "name": "Reiner Birkl",
+        "url": "https://www.intel.com/content/www/us/en/research/featured-researchers/reiner-birkl.html"
+    },
+    "DWofk": {
+        "name": "Diana Wofk",
+        "url": "https://dwofk.github.io/"
+    },
+    "MMuller": {
+        "name": "Matthias Muller",
+        "url": "https://matthias.pw/"
+    },
+    "ZLi": {
+        "name": "Zhenyu Li",
+        "url": "https://zhyever.github.io/"
     }
 }
