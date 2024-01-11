@@ -1,1 +1,0 @@
-import{p as o,o as s,a as t,q as a}from"./entry.a8eba8d5.js";const n={},r={class:"max-w-2xl px-4 py-10 m-auto sm:px-8"};function c(e,l){return s(),t("div",r,[a(e.$slots,"default")])}const m=o(n,[["render",c]]);export{m as default};
